@@ -1,0 +1,8 @@
+# excluded file #
+*.class
+inputf.txt
+outputf.txt
+*.exe
+demo.cpp
+demo.java
+.vscode
